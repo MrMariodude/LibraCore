@@ -1,0 +1,68 @@
+﻿@model PagedUsersViewModel
+
+<div class="container">
+    <h2>Users List</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Email</th>
+                <th>Roles</th>
+                <th>Actions</th> <!-- New column for actions -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>@user.Email</td>
+                    <td>@string.Join(", ", user.Roles)</td>
+                    <td>
+                        <!-- Edit Button -->
+                        <a asp-action="EditUser" asp-route-userId="@user.UserId" class="btn btn-primary">Edit</a>
+
+                        <!-- Delete Button -->
+                        <button class="btn btn-danger" onclick="deleteUser('@user.UserId')">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- Pagination controls -->
+    <nav>
+        <ul class="pagination">
+            <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
+                <a class="page-link" href="?page=@(Model.CurrentPage - 1)&pageSize=@Model.PageSize">Previous</a>
+            </li>
+            @for (int i = 1; i <= Math.Ceiling((double)Model.TotalUsers / Model.PageSize); i++)
+            {
+                <li class="page-item @(Model.CurrentPage == i ? "active" : "")">
+                    <a class="page-link" href="?page=@i&pageSize=@Model.PageSize">@i</a>
+                </li>
+            }
+            <li class="page-item @(Model.CurrentPage == Math.Ceiling((double)Model.TotalUsers / Model.PageSize) ? "disabled" : "")">
+                <a class="page-link" href="?page=@(Model.CurrentPage + 1)&pageSize=@Model.PageSize">Next</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+<script>
+    async function deleteUser(userId) {
+        const confirmed = confirm("Are you sure you want to delete this user?");
+        if (confirmed) {
+            const response = await fetch(`/Account/DeleteUser?userId=${userId}`, {
+                method: 'DELETE'
+            });
+
+            if (response.ok) {
+                // Reload the page to see changes
+                location.reload();
+            } else {
+                const result = await response.json();
+                alert(result.Error || "Failed to delete user.");
+            }
+        }
+    }
+</script>

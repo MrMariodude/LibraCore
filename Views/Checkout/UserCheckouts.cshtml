@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LiberaryManagmentSystem.Models.Checkout>
+
+@{
+    ViewBag.Title = "Your Checkouts";
+}
+
+<h2>Your Checkouts</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Checkout ID</th>
+                <th>Book Title</th>
+                <th>Checkout Date</th>
+                <th>Return Date</th>
+                <th>Penalty</th>
+                <th>Status</th> <!-- Combined Status and Action column -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var checkout in Model)
+            {
+                <tr>
+                    <td>@checkout.CheckoutId</td>
+                    <td>@checkout.Book.Title</td>
+                    <td>@checkout.CheckoutDate.ToShortDateString()</td>
+                    <td>@checkout.ReturnDate.ToShortDateString()</td>
+                    <td>@checkout.PenaltyAmount.ToString("C")</td>
+                    <td>
+                        @if (checkout.IsReturned)
+                        {
+                            <span class="text-success">Returned</span>
+                        }
+                        else
+                        {
+                            <form asp-controller="Checkout" asp-action="ReturnBook" method="post" style="display:inline;">
+                                <input type="hidden" name="checkoutId" value="@checkout.CheckoutId" />
+                                <button type="submit" class="btn btn-danger btn-sm">Return</button>
+                            </form>
+                        }
+                    </td> <!-- Combined Status and Action column -->
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>You have no checkouts at the moment.</p>
+}
+

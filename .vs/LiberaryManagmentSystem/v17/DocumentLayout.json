@@ -1,0 +1,819 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\repository\\accountreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:repository\\accountreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\views\\checkout\\usercheckouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\checkout\\usercheckouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\migrations\\20241001193420_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:migrations\\20241001193420_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\interfaces\\icheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:interfaces\\icheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\customvalidations\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:customvalidations\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\viewmodels\\pagedusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:viewmodels\\pagedusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\viewmodels\\profiledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:viewmodels\\profiledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\book\\bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\book\\bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|c:\\users\\azazk\\downloads\\telegram desktop\\liberarymanagmentsystem\\liberarymanagmentsystem\\views\\checkout\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\checkout\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\profiledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\profiledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D36B1B-7734-4E84-8AE9-A8BABFCD1BCB}|LiberaryManagmentSystem.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241001193420_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Migrations\\20241001193420_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241001193420_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Migrations\\20241001193420_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241001193420_InitialCreate.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:27:53.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Services\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "Services\\CheckoutService.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Services\\CheckoutService.cs",
+              "RelativeToolTip": "Services\\CheckoutService.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAASwHwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:11:02.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Interfaces\\ICheckoutService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICheckoutService.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Interfaces\\ICheckoutService.cs",
+              "RelativeToolTip": "Interfaces\\ICheckoutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:10:37.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:58:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:58:06.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Checkout\\Payment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Checkout\\Payment.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T17:49:52.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserCheckouts.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Checkout\\UserCheckouts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\UserCheckouts.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Checkout\\UserCheckouts.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\UserCheckouts.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAewDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T17:17:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAIwF8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:41:31.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\BookDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\BookDetails.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\BookDetails.cshtml",
+              "RelativeToolTip": "Views\\Book\\BookDetails.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T00:22:32.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\EditUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EditUserDto.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\EditUserDto.cs",
+              "RelativeToolTip": "Dtos\\EditUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:44:44.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Services",
+              "WhenOpened": "2024-10-09T20:56:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:56:17.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T18:23:06.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\Checkout.cs",
+              "RelativeDocumentMoniker": "Models\\Checkout.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\Checkout.cs",
+              "RelativeToolTip": "Models\\Checkout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:12:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:25:51.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:55:38.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:55:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:54:29.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:53:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:43:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:42:39.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:29:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:09:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:09:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\EditUser.cshtml",
+              "RelativeToolTip": "Views\\Account\\EditUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:08:47.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:46:59.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\GetAllUsers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\GetAllUsers.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\GetAllUsers.cshtml",
+              "RelativeToolTip": "Views\\Account\\GetAllUsers.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T03:41:18.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagedUsersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\ViewModels\\PagedUsersViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PagedUsersViewModel.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\ViewModels\\PagedUsersViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PagedUsersViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:39:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T01:19:55.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfileDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\ProfileDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ProfileDetails.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\ProfileDetails.cshtml",
+              "RelativeToolTip": "Views\\Account\\ProfileDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T01:19:39.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfileDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\ViewModels\\ProfileDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProfileDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\ViewModels\\ProfileDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProfileDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:18:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAkwAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:14:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Dtos\\ChangePasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Dtos",
+              "WhenOpened": "2024-10-06T00:10:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T00:09:42.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\UpdateProfile.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\UpdateProfile.cshtml",
+              "RelativeToolTip": "Views\\Account\\UpdateProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T00:06:31.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:29:06.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "Dtos\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Dtos",
+              "WhenOpened": "2024-10-05T23:29:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:15:24.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAhwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:13:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:02:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:53:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\CustomValidations\\PasswordValidationAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidations\\PasswordValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\CustomValidations\\PasswordValidationAttribute.cs",
+              "RelativeToolTip": "CustomValidations\\PasswordValidationAttribute.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:51:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T22:50:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Dtos",
+              "WhenOpened": "2024-10-05T22:40:22.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T22:38:00.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountReository.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Repository\\AccountReository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountReository.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Repository\\AccountReository.cs",
+              "RelativeToolTip": "Repository\\AccountReository.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAswOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:28:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\azazk\\Downloads\\Telegram Desktop\\LiberaryManagmentSystem\\LiberaryManagmentSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAiwCIBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Controllers",
+              "WhenOpened": "2024-10-05T21:29:34.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

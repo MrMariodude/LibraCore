@@ -1,0 +1,33 @@
+﻿@model Book
+
+@{
+    ViewBag.Title = "Payment";
+    var penalty = ViewBag.Penalty as decimal?;
+}
+
+<h2>Payment Required</h2>
+
+<h4>Book Information</h4>
+<dl class="row">
+    <dt class="col-sm-2">Title</dt>
+    <dd class="col-sm-10">@Model.Title</dd>
+
+    <dt class="col-sm-2">Author</dt>
+    <dd class="col-sm-10">@Model.Author</dd>
+
+    <dt class="col-sm-2">Genre</dt>
+    <dd class="col-sm-10">@Model.Genre</dd>
+
+    <dt class="col-sm-2">Return Date</dt>
+    <dd class="col-sm-10">@Model.Checkouts.FirstOrDefault(c => c.CheckoutId == ViewBag.CheckoutId)?.ReturnDate.ToShortDateString()</dd>
+</dl>
+
+@if (penalty.HasValue)
+{
+    <p>You have a penalty of <strong>@penalty.Value.ToString("C")</strong>. Please complete the payment to return the book.</p>
+}
+
+<form asp-controller="Checkout" asp-action="ProcessPayment" method="post">
+    <input type="hidden" name="checkoutId" value="@ViewBag.CheckoutId" />
+    <button type="submit" class="btn btn-primary">Pay and Return Book</button>
+</form>

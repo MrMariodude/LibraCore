@@ -1,0 +1,61 @@
+﻿@model LiberaryManagmentSystem.Models.Book
+
+@{
+    ViewBag.Title = "Book Details";
+    var minReturnDate = DateTime.Now.AddDays(1).ToString("yyyy-MM-dd"); // Set minimum date to 1 day in the future
+}
+
+<h2>@Model.Title</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-warning">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<div>
+    <h4>Book Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Author</dt>
+        <dd class="col-sm-10">@Model.Author</dd>
+
+        <dt class="col-sm-2">Genre</dt>
+        <dd class="col-sm-10">@Model.Genre</dd>
+
+        <dt class="col-sm-2">Published Date</dt>
+        <dd class="col-sm-10">@Model.PublishedDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-2">Copies Available</dt>
+        <dd class="col-sm-10">@Model.CopiesAvailable</dd>
+    </dl>
+
+    @if (Model.CopiesAvailable > 0)
+    {
+        <h4>Checkout Book</h4>
+        <hr />
+        <form asp-controller="Checkout" asp-action="Checkout" method="post">
+            <input type="hidden" name="bookId" value="@Model.BookId" />
+            <div class="form-group">
+                <label for="returnDate">Return Date</label>
+                <input type="date" name="returnDate" class="form-control" min="@minReturnDate" required />
+            </div>
+            <button type="submit" class="btn btn-primary">Checkout</button>
+        </form>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            No copies available for this book.
+        </div>
+    }
+
+    <div>
+        @if (User.IsInRole("Admin") || User.IsInRole("Librarian"))
+        {
+            <a asp-action="Edit" asp-route-id="@Model.BookId" class="btn btn-primary">Edit</a>
+        }
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

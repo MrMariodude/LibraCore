@@ -1,0 +1,56 @@
+﻿@model ProfileDetailsViewModel
+
+<h2>Your Profile</h2>
+
+<div class="form-group">
+    <label>First Name</label>
+    <input class="form-control" asp-for="FirstName" readonly />
+</div>
+
+<div class="form-group">
+    <label>Last Name</label>
+    <input class="form-control" asp-for="LastName" readonly />
+</div>
+
+<div class="form-group">
+    <label>Email</label>
+    <input class="form-control" asp-for="Email" readonly />
+</div>
+
+<div class="form-group">
+    <label>Membership Date</label>
+    <input class="form-control" asp-for="MembershipDate" readonly />
+</div>
+
+<div class="form-group">
+    <label>Password</label>
+    <div class="input-group">
+        <input type="password" class="form-control" id="passwordField" value="********" readonly />
+        <div class="input-group-append">
+            <button class="btn btn-secondary" type="button" onclick="togglePasswordVisibility()">Show</button>
+        </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <a class="btn btn-primary" asp-action="ChangePassword">Change Password</a>
+</div>
+
+<a class="btn btn-primary" asp-action="UpdateProfile">Edit Profile</a>
+
+@section Scripts {
+    <script>
+        function togglePasswordVisibility() {
+            var passwordField = document.getElementById('passwordField');
+            var button = event.target;
+
+            if (passwordField.type === 'password') {
+                passwordField.type = 'text';  // Change the input type to text to show the password
+                button.textContent = 'Hide';  // Change button text to 'Hide'
+            } else {
+                passwordField.type = 'password';  // Change the input type back to password to hide it
+                button.textContent = 'Show';  // Change button text to 'Show'
+            }
+        }
+    </script>
+}

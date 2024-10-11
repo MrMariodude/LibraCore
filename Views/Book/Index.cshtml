@@ -1,0 +1,57 @@
+﻿@model IEnumerable<LiberaryManagmentSystem.Models.Book>
+
+@{
+    ViewData["Title"] = "Books List";
+}
+
+<h2>Books List</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Published Date</th>
+            <th>Copies Available</th>
+            @if (User.IsInRole("Admin") || User.IsInRole("Librarian"))
+            {
+                <th>Actions</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Genre</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>@book.CopiesAvailable</td>
+                @if (User.IsInRole("Admin") || User.IsInRole("Librarian"))
+                {
+                    <td>
+                        <a asp-action="BookDetails" asp-route-id="@book.BookId" class="btn btn-sm btn-info">View</a>
+
+                        <a asp-action="Edit" asp-route-id="@book.BookId" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@book.BookId" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <a asp-action="BookDetails" asp-route-id="@book.BookId" class="btn btn-sm btn-info">View</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("Admin") || User.IsInRole("Librarian"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Add New Book</a>
+    </p>
+}
